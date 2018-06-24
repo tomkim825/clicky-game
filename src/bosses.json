@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.wikia.nocookie.net/__cb20100507233259/megaman/images/thumb/2/22/Cutman.png/130px-0%2C453%2C10%2C411-Cutman.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://images.wikia.nocookie.net/__cb20100508211922/megaman/images/thumb/6/60/Gutsman.png/130px-0%2C771%2C10%2C692-Gutsman.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://images.wikia.nocookie.net/__cb20100508213805/megaman/images/thumb/2/26/Elecman.png/130px-0%2C532%2C12%2C483-Elecman.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://images.wikia.nocookie.net/__cb20100508213358/megaman/images/thumb/0/03/Iceman.png/130px-0%2C627%2C8%2C563-Iceman.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://images.wikia.nocookie.net/__cb20100508214253/megaman/images/thumb/0/04/Fireman.png/130px-0%2C735%2C11%2C661-Fireman.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://images.wikia.nocookie.net/__cb20100508213027/megaman/images/thumb/1/19/Bombman.png/130px-0%2C691%2C0%2C611-Bombman.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://images.wikia.nocookie.net/__cb20100919042748/megaman/images/thumb/4/47/Skullman.png/130px-0%2C655%2C11%2C590-Skullman.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://images.wikia.nocookie.net/__cb20100919041055/megaman/images/thumb/8/84/Ringman.png/130px-0%2C674%2C9%2C605-Ringman.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://images.wikia.nocookie.net/__cb20100919043355/megaman/images/thumb/9/9b/Brightman.png/130px-0%2C687%2C10%2C618-Brightman.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://images.wikia.nocookie.net/__cb20100509161358/megaman/images/thumb/8/8e/Sparkman.png/130px-0%2C626%2C11%2C565-Sparkman.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://images.wikia.nocookie.net/__cb20100509153102/megaman/images/thumb/c/c1/Shadowman.png/130px-0%2C667%2C12%2C602-Shadowman.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://images.wikia.nocookie.net/__cb20100508230824/megaman/images/thumb/6/65/Geminiman.png/130px-0%2C621%2C10%2C559-Geminiman.png",
+    "clicked": false
+  }
+]
