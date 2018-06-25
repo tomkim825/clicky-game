@@ -8,7 +8,7 @@ Clicky Game with React. The object of this game is to click on different image e
 
 * The game ends and the score is set to 0 whenever the image is clicked twice
 # Screenshot
- (Gif coming up when finished)
+![screenshot of app](https://github.com/tomkim825/clicky-game/blob/master/public/assets/img/Capture.JPG?raw=true)
 
 ## Technologies used
 
