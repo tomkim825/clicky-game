@@ -1,0 +1,15 @@
+.title {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.jumbotron {
+  background-color: darkblue;
+  background-repeat: no-repeat;
+  margin-top: 80px;
+  border-radius:10px
+}
+body {
+  color: white;
+}

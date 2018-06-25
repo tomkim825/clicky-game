@@ -1,0 +1,11 @@
+.wrapper {
+  background: #ECEFF1;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  background-image: url(http://cdn01.wallconvert.com/_media/wallpapers_3840x2160/1/3/mega-man-27007.jpg);
+  background-size: cover
+}
