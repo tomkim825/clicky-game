@@ -86,7 +86,7 @@ class App extends Component {
       <div>
       <nav class="row navbar fixed-top navbar-dark bg-primary py-3">
           <div class="col-4 nav-item">
-          <h2 class='nav-logo'>Megaman Clicky Dolphin</h2>
+          <h2 class='nav-logo'>Megaman Clicky Game</h2>
           </div>
           <div class="col-4 nav-item">
             <h5>{this.state.message}</h5>
